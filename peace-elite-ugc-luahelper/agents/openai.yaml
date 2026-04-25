@@ -1,0 +1,3 @@
+display_name: Peace Elite UGC LuaHelper
+short_description: Generate Peace Elite UGC Lua with local APIs
+default_prompt: Use the Peace Elite UGC LuaHelper skill to inspect local LuaHelper declarations and project scripts before answering or generating UGC Lua code.

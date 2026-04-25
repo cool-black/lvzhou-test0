@@ -1,0 +1,20 @@
+.luahelper_index/
+
+# Unreal/UGC generated local state
+Saved/
+Intermediate/
+DerivedDataCache/
+Binaries/
+Build/
+Logs/
+
+# Local editor/workspace noise
+.vs/
+*.suo
+*.user
+*.tmp
+*.log
+
+# Python helper caches
+__pycache__/
+*.py[cod]

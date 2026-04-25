@@ -1,0 +1,2 @@
+/Game/BluePrints/Teleport/TeleportStart
+/Game/UGC/Arts/Characters/Mesh/SK_UGC_Captain
