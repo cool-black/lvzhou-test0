@@ -1,16 +1,16 @@
 [Root]
-ProjectDisplayName=test_0
-ProjectDescription=test_0
+ProjectDisplayName=test0
+ProjectDescription=test0
 DataTableRootDir=
-ProjectName=test_0
-ProjectTrueName=0C42139242DEDA44FDD88651F47B8DDE5C7177EE2234C1341DA838E0EEC7CE2B
-ProjectShortPath=/test_0/
-StartMapName=/test_0/UGCmap
+ProjectName=test0
+ProjectTrueName=C6C578057B69D60810B1D4F0508D54B35D6FA9BB015BA6FD25752C2CB436FDC9
+ProjectShortPath=/test0/
+StartMapName=/test0/UGCmap
 MapMode=0
 bIsBigWorld=0
-Version=1.36.11.29248
+Version=1.36.11.29250
 UpdateVersion=10
-GameModePath=/test_0/Asset/Blueprint/UGCGameMode.UGCGameMode_C
+GameModePath=/test0/Asset/Blueprint/UGCGameMode.UGCGameMode_C
 
 [FeatureFlags]
 bOpenItemEditorV1=0
